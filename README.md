@@ -19,3 +19,27 @@
 </div>
 
 ---
+## 🌐 About Me
+
+Hi! I'm Akmal Mamurov a passionate **Frontend Developer** specializing in modern web development technologies. My expertise lies in building dynamic, responsive, and scalable applications. I have a keen interest in the **React**, and **Next.js**, and I'm always eager to explore new tools and technologies.
+
+### Portfolio
+
+🔗 [Check out my portfolio](https://portfolio-one-iota-30.vercel.app/)
+
+
+
+---
+
+## 🚀 Skills & Expertise
+
+### 💻 Development
+
+- Frontend Developer
+- React.js & Next.js for SPAs and SSR
+- Tailwind CSS & Styled Components
+
+### 🔧 Other Skills
+
+- REST & GraphQL APIs
+- State Management: Redux, Zustand
