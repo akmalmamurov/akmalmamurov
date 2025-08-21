@@ -25,7 +25,7 @@ Hi! I'm Akmal Mamurov a passionate **Frontend Developer** specializing in modern
 
 ### Portfolio
 
-🔗 [Check out my portfolio](https://portfolio-one-iota-30.vercel.app/)
+🔗 [Check out my portfolio](https://next-portfolio-tawny-theta.vercel.app)
 
 
 
